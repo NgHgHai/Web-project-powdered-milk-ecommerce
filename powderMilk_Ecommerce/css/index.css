@@ -18,6 +18,14 @@ h1.slideInDown{
     color: #0c4128;
 }
 .item_slogan img{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
+#searchform-header-replace label {
+    height: 100%
+}
+
+.form-control{
+    width: 80%;
+}
+
